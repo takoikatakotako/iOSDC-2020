@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  Avatar
-//
-//  Created by junpei ono on 2020/09/05.
-//  Copyright © 2020 junpei ono. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
